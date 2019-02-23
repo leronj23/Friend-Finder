@@ -4,7 +4,7 @@ This app is a hybrid of Amazon but in a terminal. You can select different produ
 
 All this is powered by Node.js and MySQL.
 
-# Link to video demonstration
+
 ![Friend Finder](https://github.com/leronj23/Friend-Finder/blob/master/screenshot/friend-finder.JPG)
 
 # Technology used
