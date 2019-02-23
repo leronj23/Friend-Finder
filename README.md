@@ -5,7 +5,7 @@ This app is a hybrid of Amazon but in a terminal. You can select different produ
 All this is powered by Node.js and MySQL.
 
 # Link to video demonstration
-[![Watch the video](https://github.com/leronj23/bAmazon-Customer/blob/master/screenshot/bAmazonCustomer-app.png)](https://youtu.be/crxhlFH0g_A)
+https://github.com/leronj23/Friend-Finder/blob/master/screenshot/friend-finder.JPG
 
 # Technology used
 * Javascript
